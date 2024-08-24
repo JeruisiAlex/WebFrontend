@@ -1,4 +1,4 @@
-# WebFrontend
+# 前言
 
 如果有人不幸看到了这个仓库，并想全面学习一下 Web 前端开发，请注意以下几点：
 
@@ -14,3 +14,7 @@
 
 https://developer.mozilla.org/zh-CN/
 
+# 分支说明
+
+- notes：记录了总结的Web前端知识点
+- code：用于展示学习到的前端知识点
